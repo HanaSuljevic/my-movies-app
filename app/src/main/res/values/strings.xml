@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Movies Application</string>
+    <string name="movies_screen">Movies</string>
+    <string name="my_movies_screen">My Movies</string>
+    <string name="back_button">Back</string>
+
+    <string name="misljenje">Misljenje o filmu</string>
+    <string name="ocjena">Ocjena</string>
+
+
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="movie_photo">Movie photo</string>
+
+    <string name="welcome">Welcome to MoviesApp.</string>
+    <string name="movies_button_desc">Lista najnovijih filmova.</string>
+    <string name="my_movies_button_desc">Lista vasih omiljenih filmova.</string>
+</resources>
